@@ -1,6 +1,5 @@
 title: HelloThere
-creator: danielo515
+creator: Magnus Evald
 type: text/vnd.tiddlywiki
 
-This is the demo wiki built automatically by [[travis-ci|http://travis-ci.org/]] following the instructions at
-the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-publish2gh-pages]]
+Det här är tänkt att bli en samling beskrivningar av världens mest odlade växter, orkidéerna. Min föresats är att den ska innehålla beskrivningar om växtplats, utseende och skötsel.
