@@ -1,0 +1,56 @@
+auktor: Lindley (1826)
+caption: Pinalia
+count: 109
+created: 20150107114500000
+creator: Magnus Evald
+modified: 20150322194955869
+modifier: Magnus Evald
+tags: Pinalia genus Eriinae
+title: c866ad00-42ef-4f33-bf9e-66d43a1a4c76
+type: text/vnd.tiddlywiki
+
+!Allmänt och utbredning
+//Pinalia// innehåller <$view field="count"/> accepterade arter från nordvästra Himalaya och nordöstra Indien till Myanmar/Burma, södra Kina, Vietnam, Laos, Thailand, den malaysiska övärlden, en enda art i den delstaten Queensland i nordöstra Australien, och på flera Stillahavsöar.
+De påträffas i en rad habitat från havsnivå till 3300 meters höjd, men de är särskilt vanligt förekommande mellan 600 och 3300 meter.
+Släktet var tidigare sektion av //[[Eria|b5950489-409b-46a6-bc77-5bc12e5c2a4e]]//, men bröts ut till ett eget släkte separeras på basis av molekylära data och morfologiska karaktärer som att stammen består av flera noder.
+<$reveal type="nomatch" state="$:/temp/state-c866ad00-42ef-4f33-bf9e-66d43a1a4c76" text="show">
+<$button set="$:/temp/state-c866ad00-42ef-4f33-bf9e-66d43a1a4c76" setTo="show">visa mer info om utbredningen</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-c866ad00-42ef-4f33-bf9e-66d43a1a4c76" text="show">
+
+;tempererade Asien
+:östra Kina, Hainan, Tibet, Ryukyuöarna, Taiwan
+;tropiska Asien
+:delstaten Assam i Indien, Bangladesh, östra Himalaya, Indien, Nepal, Sri Lanka, västra Himalaya, Andamanerna och Nikobarerna, Kambodja, Laos, Myanmar/Burma, Thailand, Vietnam, malaysiska Borneo, Java, Små Sundaöarna, Malaysia , Maluku, Filippinerna, Sulawesi, Sumatra, Papua Nya Guinea, Solomon öarna.
+;Australasia
+:delstaten Queensland på Australien
+;Pacific
+:Samoa
+
+<$button set="$:/temp/state-c866ad00-42ef-4f33-bf9e-66d43a1a4c76" setTo="hide">dölj</$button>
+
+</$reveal>
+
+!Utseende
+Det är stora epifytiska eller litofytiska plantor som bildar tunna rötter från klungor av stora, tjocka, tillplattade pseudobulber, var och en med flera noder. Unga bulber är omslutna av tunna, bruna täckblad. Varje bulb bär från toppen eller övre halvan av bulben en till tre tunna, långsmala blad som håller flera säsonger. Från toppen eller nära toppen kommer också en relativt lång blomstängel med flera skålformade blommor som håller några dagar. Sepalerna är tätt eller glest behårade på baksidan och den laterala sepalen är sammanväxt med könspelarens fot, petalerna mindre än sepalerna. Läppen är fäst vid könspelarens fot och har längsgående åsar. Blommorna kan dofta lite fränt.
+
+!Skötsel
+Även om de inte är vanliga i odling, är släktet intressant och relativt lättodlat med samma skötsel som för //[[Eria|b5950489-409b-46a6-bc77-5bc12e5c2a4e]]//. De föredrar varma till svala odlingsförhållanden. Blommor är tät och har ett slags fräna lukten. Växter kan odlas i filtrerade ljusförhållanden. De kan antingen monteras eller odlas i krukor m,ed väldränerad kompost som bör få torka ut mellan vattningarna. De kan vattnas med svag gödning var fjortonde dag.
+
+!Taxonomi
+''Underfamilj'': Epidendroideae
+''Tribus'': Podochileae
+''Undertribus'': Eriinae
+
+''Typart''
+//[[Pina. spicata|d2cb613a-aa8c-4cca-b9ab-fcdfb8ed93bd]]// S.C.Chen & J.J.Wood (2009)
+
+''Uttal''
+
+''Synonymer''
+__Heterotypic Synonyms:__
+//Urostachya// Brieger (1981)
+//Hymeneria// M.A.Clem. & D.L.Jones (2002)
+
+!Rekommenderad läsning
+[[Lucid Key Server|http://keys.trin.org.au/key-server/data/08090a09-0d0e-410b-860c-020705070e0e/media/Html/genera/Pinalia.htm]]
+[[eMonocot|http://e-monocot.org/taxon/urn:kew.org:wcs:taxon:156185]]

@@ -1,0 +1,67 @@
+auktor: Lindley (1843)
+caption: Promenaea
+count: 18
+created: 20150107114500000
+creator: Magnus Evald
+modified: 20150814182053859
+modifier: Magnus Evald
+tags: Promenaea genus Zygopetalinae
+title: 5ad1d667-9c99-4285-b886-7665e56a2b62
+type: text/vnd.tiddlywiki
+
+!Allmänt och utbredning
+Det finns <$view field="count"/> arter av detta ganska okända släkte från Brasilien. De återfinns framförallt i centrala och södra delarna av Brasilien där de växer som små epifyter i fuktiga skogar.
+De beskrevs första gången 1843 av Lindley som namngav släktet efter Promeneia, en gång grekiska prästinna hos Zeus-oraklet i Dodona.
+Släktet delas in i tre sektioner: ''Promenaea rollinsonii'', ''Promenaea xanthina'' och ''Promenaea stapelioides'' sektionerna.
+<$reveal type="nomatch" state="$:/temp/state-5ad1d667-9c99-4285-b886-7665e56a2b62" text="show">
+<$button set="$:/temp/state-5ad1d667-9c99-4285-b886-7665e56a2b62" setTo="show">visa mer info om sektionerna</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-5ad1d667-9c99-4285-b886-7665e56a2b62" text="show">
+
+;Promenaea rollinsonii
+://[[Prom. lentiginosa|2a40c76e-fbc1-4264-9642-d85ec5ef7330]]//
+://[[Prom. riograndensis|a74419a8-4fb7-4146-a6d7-3eb73bb0b6cd]]//
+://[[Prom. rollinsonii|b0a8ffbe-3bb7-4d79-9dd3-96fee634f573]]//
+;Promenaea xanthina
+://[[Prom. acuminata|08efa566-1aff-4af0-b429-227a5bcd02d8]]//
+://[[Prom. albescens|3b0c76a2-7be3-4598-ab8d-6422749c280b]]//
+://[[Prom. catharinensis|631087df-97e5-4b18-b9e7-2a52e79f914f]]//
+://[[Prom. dusenii|ce5a0aaa-444c-4cfd-b5cc-327707978c04]]//
+://[[Prom. fuerstenbergiana|6b3c5efe-5f1b-4ae7-8445-a11f7d0ce211]]//
+://[[Prom. guttata|b5789133-d66d-43ec-b713-901ac0359261]]//
+://[[Prom. malmquistiana|310cfaa1-43cb-43ff-b8c0-781df95fe15a]]//
+://[[Prom. microtera|202b91c4-8d80-4fac-b674-8132b6127bd2]]//
+://[[Prom. ovatiloba|008b509b-a231-440c-89f2-d9368ddabb12]]//
+://[[Prom. paranensis|f96a2c3a-75b0-40d8-a900-86c88e99eb17]]//
+://[[Prom. xanthina|865dc654-7604-49ed-964c-70be3e79a5fe]]//
+;Promenaea stapelioides
+://[[Prom. stapelioides|5c43e855-5152-4205-8cbe-b9ccbe0fdc48]]//
+
+<$button set="$:/temp/state-5ad1d667-9c99-4285-b886-7665e56a2b62" setTo="hide">dölj</$button>
+
+</$reveal>
+
+!Utseende
+De är småväxta, oftast inte högre än tio cm. Bulberna som är endast två cm stora, är nästan fyrkantiga. De mjuka bladen som kommer i par från toppen av bulben är ofta inte längre än sju cm. På våren kommer en blomstängel som är i storlek med bladen eller kortare från basen av de nya bulberna, och med en till två blommor per stängel.
+Blommorna hos //Promenaea// är drygt fem cm stora och oftast klart gula med en svag teckning i rödbrunt men även mera färgstarkt tecknade blommor kan förekomma och vissa kan dofta mycket gott. Eftersom stänglarna är hängande gör sig släktet bäst i hängande korgar.
+
+!Skötsel
+De odlas med fördel i små krukor eller hängande korgar, under svala till varma, fuktiga förhållanden. Använd en luftig, väldränerade men fuktighetshållande kompost, lämpligen en fin barkkompost med en stor andel grus eller leca och finfördelad vitmossa. Var varsam med vattningen då de lätt kan drabbas av röta. Samtidigt får de inte vara torra under lång tid. Var även försiktig med duschning för att undvika fula fläckar på bladen.
+De fordrar en skuggig plats liknande de för //[[Zygopetalum|e0e5822a-0ab4-4a2b-aa9d-c20f86f7378d]]//, om de får för mycket ljus skiftar bladen och bulberna över i ljusgrått. De tål inte alltför låga temperaturer under vinter. Göd med svag näring varje vattning under sommaren när de tillväxer, och omplantera vartannat år efter som de inte kan fördra om komposten börjar brytas ner.
+
+!Taxonomi
+''Underfamilj'': Epidendroideae
+''Tribus'': Maxillarieae
+''Undertribus'': Zygopetalinae
+
+''Typart''
+Lindley använde ett flertal olika arter när han skapade släktet
+
+''Uttal''
+pro-men-EYE-ah
+
+''Synonymer''
+N/A
+
+!Rekommenderad läsning
+[[Florafest|http://www.orchideensammlung.de/gattungen/promenaea/florafest.htm]]
+[[OrchidéHuset|http://www.orchidehuset.se/Arkiv/Promenaea%20xanthina%20artikel.htm]]

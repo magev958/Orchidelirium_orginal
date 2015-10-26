@@ -1,0 +1,57 @@
+africa: true
+auktor: Schlechter (1915)
+caption: Aerangis biloba
+created: 20150107113300000
+creator: Magnus Evald
+flowering: more
+flowering_spring: true
+flowering_summer: true
+fragrance: fragrant
+modified: 20150709152511154
+modifier: Magnus Evald
+size: mini
+summer_light: shade
+summer_temp: warm
+summer_water: moist
+tags: Aerangis species
+title: e679f2c3-964a-4332-9074-5b6ebe61a8f1
+tropical: true
+type: text/vnd.tiddlywiki
+winter_light: shade
+winter_temp: warm
+winter_water: dry
+
+!Allmänt och utbredning
+Denna epifytiska art från de tropiska delarna av skogar är också vanlig i kaffe- och kakaoodlingar från havsnivå upp till 700 meters höjd.
+<$reveal type="nomatch" state="$:/temp/state-e679f2c3-964a-4332-9074-5b6ebe61a8f1" text="show">
+<$button set="$:/temp/state-e679f2c3-964a-4332-9074-5b6ebe61a8f1" setTo="show">visa mer info</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-e679f2c3-964a-4332-9074-5b6ebe61a8f1" text="show">
+Har påträffats i Benin, Ghana, Guinea-Bissau, Guinea, Republiken Elfenbenskusten, Liberia, Nigeria, Senegal, Sierra Leone, Togo, Centralafrikanska republiken, Republiken Kamerun, Gabon
+
+<$button set="$:/temp/state-e679f2c3-964a-4332-9074-5b6ebe61a8f1" setTo="hide">dölj</$button>
+</$reveal>
+
+!Utseende
+Denna kompakta lilla planta saknar pseudobulber utan får en tjock, träaktig stam som sällan blir större än 20 cm hög med fyra till tolv köttiga, läderartade blad, upptill 18 cm långa och sex cm breda med en tudelad spets. När plantan är ung är bladen rent mörkgröna men när plantan åldras får de normalt mörka prickar och fläckar. Under vår eller sommar kommer från toppen av stammen en upptill 40 cm lång blomstängel som kan bära så många som 20 vaxartade, speciellt nattetid doftande, blommor. De två till fyra cm stora, stjärnformade blommorna är vita med en rosa eller brun anstrykning längs den upptill sex cm långa sporren. Blommorna kan hålla åtta veckor men doften försvinner efter fyra. Nya plantor kan börja utvecklas från basen av stammen efter att den blommat första gången.
+
+!Skötsel
+Denna varmväxande art kräver hög luftfuktighet och kan odlas i kruka eller monterad under halvskugga. Bladen bränns lätt i för stark sol men trivs bra tillsammans med [[Phalaenopsis|923740e0-a068-475f-9748-ced1adbe3b29]]. Vid odling i kruka eller hängande korg rekommenderas en väldränerad mix av medelgrov barkkompost och sphagnum.
+Vattna två gånger i veckan under sommaren och minska till en gång i veckan när temperaturen börjar sjunka på hösten. Under vintern behöver den en minsta temperatur runt 15 grader.
+
+!Synonymer
+__Homotypic Synonyms:__
+//Angraecum bilobum// Lindl. (1840)
+//Angorchis biloba// Kuntze (1891)
+//Rhaphidorhynchus bilobus// Finet (1907)
+__Heterotypic Synonyms:__
+//Angraecum apiculatum// Hook. (1845)
+//Angraecum campyloplectron// Rchb.f. (1855)
+//Angorchis campyloplectron// Kuntze (1891)
+//Aerangis campyloplectron// Garay (1972)
+
+!Rekommenderad läsning
+[[Internet Orchid Species Photo Encyclopedia|http://www.orchidspecies.com/aebilobax.htm]] 2014-11-19
+[[Angraecums...|http://angraecums.blogspot.se/2012/04/aerangis-biloba.html]] 2014-11-19
+[[Orchids Wiki|http://orchids.wikia.com/wiki/Aerangis_biloba]] 2014-11-19
+[[Species Specific|http://www.species-specific.com/faqs/aerangis-biloba/]] 2014-11-19
+[[Burleigh Park Orchids|http://www.speciesorchids.com/AERANGISBILOBA.html]] 2014-11-19

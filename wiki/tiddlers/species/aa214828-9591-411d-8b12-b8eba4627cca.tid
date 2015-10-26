@@ -1,0 +1,54 @@
+africa: true
+auktor: Rchb.f. (1861)
+caption: Bulbophyllum falcatum
+created: 20150107113300000
+creator: Magnus Evald
+flowering: four_weeks
+flowering_spring: true
+flowering_winter: true
+fragrance: fragrant
+modified: 20150814190111963
+modifier: Magnus Evald
+size: mini
+subtropical: true
+summer_light: shade
+summer_temp: warm
+summer_water: wet
+tags: Bulbophyllum species
+title: aa214828-9591-411d-8b12-b8eba4627cca
+tropical: true
+type: text/vnd.tiddlywiki
+winter_light: shade
+winter_temp: warm
+winter_water: dry
+
+!Allmänt och utbredning
+//Bulb. falcatum// [bulb-oh-FILL-um fal-KAY-tum] återfinns epifytiskt eller mer sällan litofytiskt i låglandsskogar från de tropiska delarna av från havsnivå upptill 1800 meters höjd.
+<$reveal type="nomatch" state="$:/temp/state-aa214828-9591-411d-8b12-b8eba4627cca" text="show">
+<$button set="$:/temp/state-aa214828-9591-411d-8b12-b8eba4627cca" setTo="show">visa mer info</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-aa214828-9591-411d-8b12-b8eba4627cca" text="show">
+''Republiken Sierra Leone'' (Musaia, Messima, Fanima, Mano-Bonjema, Pendembu, Mafore, Mabira forest, Gengelu), ''Republiken Ghana'' (Jasikan, Effiduasi), ''Republiken Togo'', ''Republiken Elfenbenskusten'', ''Republiken Guinea'' (Nzèrèkorè, Lola), ''Republiken Liberia'' (Kitoma, Gran Bassa), ''Förbundsrepubliken Nigeria'' (Agbadi, Sapaba forest, Akure forest, Usonigbe forest, Okomu forest, Ondo), ''Republiken Benin'', ''Republiken Kamerun'' (Mt. Cameroon, Bakingili, Limbé, Bataki), ''Centralafrikanska republiken'', ''Republiken Gabon'' (Estuaire, Ngounié, Ogooué-Ivindo), ''Demokratiska republiken Kongo'', ''Republiken Uganda'' (Bunyoro, Budongo forest, Siba)
+
+<$button set="$:/temp/state-aa214828-9591-411d-8b12-b8eba4627cca" setTo="hide">dölj</$button>
+</$reveal>
+Den tillhör sektionen Megaclinium inom //[[Bulbophyllum|e98d2bd9-4878-4182-acc8-d67b9b46cc1f]]//.
+Förutom varianten //Bulb. falcatum// var. //falcatum// finns två varianter till av arten, //Bulb. falcatum// var. //bufo// Govaerts (1996) och //Bulb. falcatum// var. //velutinum// J.J.Verm. (1992) som har mindre utbredningsområden, kortare blomställning, mindre blommor och små skillnader i utseende.
+Artnamnet kommer från latinets ''falx'' för "skära" och ''falcatus,-a,-um'' betyder helt enkelt "formad som en skära".
+
+!Utseende
+Den får fem cm stora, koniska pseudobulber två stycken tio cm långa, elliptiska blad i toppen. Under vintern eller våren kommer från basen av bulben en två dm lång blomstängel vars övre halva är uppsvälld och tillplattad som en ärtskida med färger i grönt eller mörkt rött. Längs vardera sida av blomställningen kommer en rad med tio till 15 stycken, en cm stora blommor, med bara några få samtidigt utslagna. Blommorna är gula eller vita med purpurröda prickar och små, nästan trådlika petaler. Sepalerna är mörkröda och den dorsala sepalen är störst och mest framträdande med sina drygt nio mm och gul förtjockning mot spetsen.
+
+!Skötsel
+Odla den varmt, skuggigt och fuktigt under sommaren, låt inte komposten torka ut. Vintertid kan vattningen reduceras och komposten få torka upp mellan vattningarna. Ge god luftcirkulation för att minska risken för mögel och röta.
+Den odlas med fördel i kruka med en mix av sphagnum och fin barkkompost eller monterad om luftfuktigheten kan hållas tillräckligt hög.
+
+!Synonymer
+__Homotypic Synonyms:__
+//Megaclinium falcatum// Lindl. (1826)
+//Phyllorkis falcata// Kuntze (1891)
+
+!Rekommenderad läsning
+[[Internet Orchid Species Photo Encyclopedia|http://www.orchidspecies.com/bulbophylumfalcatum.htm]]
+[[Wikipedia|http://en.wikipedia.org/wiki/Bulbophyllum_falcatum]]
+[[Orchids Wiki|http://orchids.wikia.com/wiki/Bulbophyllum_falcatum]]
+[[The beauty of Orchids & Flower|http://www.orchids-flowers.com/orchids/bulbophyllum-falcatum-lindl-rchb-f-1861/]]

@@ -1,0 +1,89 @@
+auktor: Rolfe (1896)
+caption: Phragmipedium
+count: 26
+created: 20150107114500000
+creator: Magnus Evald
+modified: 20151024213159012
+modifier: Magnus Evald
+tags: Phragmipedium Phragmipediinae genus
+title: 64b911cb-2954-4ad9-be8b-1a5dda3a5b38
+type: text/vnd.tiddlywiki
+
+!Allmänt och utbredning
+Släktet //Phragmipedium// består av <$view field="count"/> accepterade arter med några varianter och naturhybrider, som förekommer från sydvästra Mexiko, genom Centralamerika och ner till Colombia, Ecuador, Bolivia and Brasilien. De återfinns oftast i bergsomgivningar mellan 900 till 1500 meters höjd, men några förekommer ner till havsnivå och några så högt upp som 3000 meter.
+Namnet kommer från grekiskans ''phragma'' som betyder "delning", och ''pedilon'' som närmast kan översättas med "toffel", och kommer från släktets karaktäristiska utseende på blommans läpp.
+Det är det enda släktet i tribus Phragmipedieae och undertribus Phragmipediinae. Det är ett släkte i ständigt ommöbleringar av släkten och hybrider och det pågår fortfarande heta diskussioner men släktet består av sex sektioner.
+<$reveal type="nomatch" state="$:/temp/state-64b911cb-2954-4ad9-be8b-1a5dda3a5b38" text="show">
+<$button set="$:/temp/state-64b911cb-2954-4ad9-be8b-1a5dda3a5b38" setTo="show">visa mer info om sektionerna</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-64b911cb-2954-4ad9-be8b-1a5dda3a5b38" text="show">
+
+;Phragmipedium @@font-weight:normal;Rolfe@@
+://[[Phrag. caudatum|f8ba86f2-f427-4519-b797-9b85b6915e40]]// Rolfe (1896)
+://[[Phrag. warszewiczianum|d1a7d96e-5e7f-4bad-bdf0-6e5838d3bf1a]]// Schltr. (1922)
+://[[Phrag. exstaminodium|772dd8bc-3165-4600-884d-ffb564872470]]// Castaño, Hágsater & Aguirre (1984)
+://[[Phrag. lindenii|fbb70608-7f92-40a8-b682-c3828360389e]]// Dressler & N.H. Williams (1975)
+://[[Phrag. warszewiczianum|d1a7d96e-5e7f-4bad-bdf0-6e5838d3bf1a]]// Schltr. (1922)
+;Himantopetalum @@font-weight:normal;Garay@@
+://[[Phrag. caricinum|97740747-b9c8-4abc-b3df-5d8c77834375]]// Rolfe (1896)
+://[[Phrag. pearcei|411dcbfb-cf57-499f-97c7-c74e61c90b70]]// Rauh & Senghas (1975)
+://[[Phrag. klotzschianum|77f4bceb-bc36-4e74-8f1a-a3299392a525]]// Rolfe (1896)
+://[[Phrag. richteri|7da06543-9390-4510-aac5-44043d566eb5]]// Roeth & Gruss (1994)
+://[[Phrag. tetzlaffianum|32be9033-25d6-4522-87ab-709495f91c56]]// Gruss (2000)
+://[[Phrag. reticulatum|dc7f2c95-9984-4517-a701-c4fa3dabc3df]]// Schltr. (1921)
+;Platypetalum @@font-weight:normal;Garay@@
+://[[Phrag. lindleyanum|0c121586-708a-4e36-abf4-2c6a48b47ca1]]// Rolfe (1896)
+;Lorifolia @@font-weight:normal;Garay@@
+://[[Phrag. longifolium|6022728f-e2c9-4cbc-9f23-63dbdf9541cb]]// Rolfe (1896)
+://[[Phrag. boissierianum|f44465a3-5e54-4566-9ac3-84cc1b69ab11]]// Rolfe (1896)
+:://Phrag. boissierianum var. boissierianum//
+:://Phrag. boissierianum var. czerwiakowianum// Gruss (1995)
+://[[Phrag. hirtzii|08fd4469-1107-4197-b12e-a4648bfe1fc9]]// Dodson (1988)
+://[[Phrag. vittatum|53e4073c-1fb5-454a-834b-4a3c9f32f225]]// Rolfe (1896)
+://[[Phrag. brasiliense|54a01489-2b41-41ba-a3fc-209ed1dbb9eb]]// Quené & Gruss (2003)
+://[[Phrag. manzurii|ebc9b10a-a2c0-439f-bef7-d49302d71513]]// W.E.Higgins & Viveros (2008)
+;Micropetalum @@font-weight:normal;Garay@@
+://[[Phrag. schlimii|5b712237-dcf2-4c47-896e-1d1711099790]]// Rolfe (1896)
+://[[Phrag. fischeri|929bf530-becb-4d73-9e75-e4b8b31ec662]]// Braem & Mohr (1996)
+://[[Phrag. andreettae|5558d8ed-a94a-4524-a339-896ed1664812]]// P.J. Cribb & Pupulin (2006)
+://[[Phrag. besseae|10e52472-6423-4e9e-aab3-a7d820959329]]// Dodson & J. Kuhn (1981)
+:://Phrag. besseae var. besseae//
+:://Phrag. besseae var. dalessandroi// A.Moon & P.J.Cribb (1997)
+;Schluckebieria @@font-weight:normal;Braem@@
+://[[Phrag. kovachii|13ac8c20-500e-46f0-ab72-ab1c5101ea29]]// J.T. Atwood, Dalström & Fernandez (2002)
+
+<$button set="$:/temp/state-64b911cb-2954-4ad9-be8b-1a5dda3a5b38" setTo="hide">dölj</$button>
+
+</$reveal>
+
+!Utseende
+De flesta //Phragmipedium// är vanligen stora, sympodiala, terrestriska plantor, men vissa arter är epifytiska eller litofytiska till sitt växtsätt. De uppvisar en unik sköldliknande staminoid, långa mustaschliknande petaler och en stor uppsvälld säcklik läpp. De saknar pseudobulber och bladen kommer solfjädersformigt från en mycket kort stam. De sex till åtta bladen är vanligen mycket långa, upptill 80 cm, och smala, med ett veck längs hela bladets längd. Blomstängeln skjuter rakt upp från mitten av bladen och bär flera blommor som hos de flesta arter öppnas successivt. Hos några få arter öppnas alla på en gång. Hos de arter som bär ett fåtal blommor, tenderar dessa att hålla länge, upptill sex månader. När de faller av blomstängeln ser de lika vackra ut som när de var nyutslagna. Blomstorleken ökar med plantans ålder.
+
+!Skötsel
+Ljusbehovet för phragmipediumarterna går från fullt ljus, 30000 till 40000 lux för caudatum-typen med långa petaler, lika som för //[[Cattleya|c87b994a-eb5b-416b-9748-860053e0dde3]]//, till halvskugga 15000 till 20000 lux för //[[Phrag. besseae|10e52472-6423-4e9e-aab3-a7d820959329]]// och //[[Phrag. schlimii|5b712237-dcf2-4c47-896e-1d1711099790]]//. Flesta arterna föredrar en nattemperatur mellan 15 till 18 grader, men //[[Phrag. besseae|10e52472-6423-4e9e-aab3-a7d820959329]]// och //[[Phrag. schlimii|5b712237-dcf2-4c47-896e-1d1711099790]]// kan tolerera och till och med föredrar ännu kallare. I de fallen behöver de en bara lätt fuktig kompost, inte blöt, för att inte fara illa.
+Luftfuktigheten bör ligga över 50% om möjligt. Caudatum-typen är minst känslig för låg luftfuktighet, så länge bara rötterna hålls fuktiga. Konstant luftcirkulation är viktigt, speciellt i växthus kan det bidra till att förhindra uppkomsten av mögel och röta.
+Bra vattenkvalité är viktigt, plantorna är känsliga för uppbyggnad av salter i komposten. Regnvatten eller R/O-vatten är bäst. Spola igenom komposten ordentligt vid varje vattning. De flesta //Phragmipedium// behöver hållas fuktiga hela tiden, caudatum-typen kan hållas lite mer på den torra sidan. Vattna underifrån eller låt krukan stå på ett fat med några cm vatten.
+Vanligen klarar //Phragmipedium// mer gödning än //[[Paphiopedilum|4de37127-aa20-4dc8-9397-38b26a47ba20]]//, men om det blir för mycket blir lätt bladspetsarna bruna.
+Eftersom komposten behöver hållas fuktig hela tiden bryts den snabbt ner. Den behöver därför bytas varje år. En bra kompost kan innehålla tre delar fin kompost, en del perlite, en del sphagnum-mossa och gärna en generös nypa benmjöl och kol. För plantor i stora krukor kan man blanda upp med lite grövre kompost också.
+
+!Taxonomi
+''Underfamilj'': Cypripedioideae
+''Tribus'': Phragmipedieae
+''Undertribus'': Phragmipediinae
+
+''Typart''
+//[[Phrag. caudatum|f8ba86f2-f427-4519-b797-9b85b6915e40]]// Rolfe (1896)
+
+''Uttal''
+fraig-mi-PEE-dee-um
+
+''Synonymer''
+__Heterotypic Synonyms:__
+//Uropedium// Lindley (1846)
+//Phragmopedilum// Rolfe (1901)
+
+!Rekommenderad läsning 
+[[Wikipedia|http://en.wikipedia.org/wiki/Phragmipedium]]
+[[PhragWeb|http://www.phragweb.info/phragmipedium/genus/genus_phrag.asp]]
+[[CultureSheet|http://culturesheet.org/orchidaceae:phragmipedium]]
+[[the Orchid House|http://retirees.uwaterloo.ca/~jerry/orchids/cnotes/phrag.html]]
+[[Carter and Holmes|http://www.carterandholmes.com/phragcare.html]]
