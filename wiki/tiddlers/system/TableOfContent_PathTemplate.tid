@@ -1,0 +1,12 @@
+created: 20150904181941747
+creator: Magnus Evald
+list-before: $:/core/ui/ViewTemplate/body
+modified: 20150904183228675
+modifier: Magnus Evald
+tags: $:/tags/ViewTemplate Config System
+title: $:/_Sidebar/TableOfContent/PathTemplate
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[genus]]">
+  <<TOCPath>> <$view field="caption"/>
+</$list>

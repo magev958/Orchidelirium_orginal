@@ -1,0 +1,10 @@
+created: 20150905211618602
+modified: 20150905211822835
+tags: $:/tags/Stylesheet Config System
+title: $:/_Mobile/StyleSheet
+type: text/vnd.tiddlywiki
+
+!Mobile/StyleSheet
+
+@media (max-width: 800px) {
+}

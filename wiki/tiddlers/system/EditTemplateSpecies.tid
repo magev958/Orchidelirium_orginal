@@ -1,0 +1,190 @@
+created: 20150904133504063
+creator: Magnus Evald
+modified: 20150920181901502
+modifier: Magnus Evald
+tags: $:/tags/EditTemplate Config System
+title: $:/_Story/EditTemplateSpecies
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[species]]">
+<div class=".text-block small-column">
+   <table class="no-border" style="width:100%;">
+      <tr>
+         <th colspan="3" style="text-align:center;">
+            <h1>Odling</h1>
+         </th>
+      </tr>
+      <tr>
+         <th>Tillväxtperiod</th>
+         <th></th>
+         <th>Viloperiod</th>
+      </tr>
+      <tr>
+         <th colspan="3" style="text-align:center;">Temperatur</th>
+      </tr>
+      <tr>
+         <td>
+            <$select field='summer_temp'>
+            <option value=''></option>
+            <option value='warm'>varmt</option>
+            <option value='intermediate'>intermediärt</option>
+            <option value='cool'>svalt</option>
+            </$select>
+         </td>
+         <td>''varmt'', behaglig inomhustemperatur dagtid 20 grader eller högre, nattemperatur inte under 16 grader<br />
+            ''intermediärt'', inomhustemperatur dagtid 16 grader eller högre, nattemperatur mellan tio och 16 grader<br />
+            ''svalt'', inomhustemperatur dagtid 13 grader eller högre, nattemperatur mellan fyra och tio grader
+         </td>
+         <td>
+            <$select field='winter_temp'>
+            <option value=''></option>
+            <option value='warm'>varmt</option>
+            <option value='intermediate'>intermediärt</option>
+            <option value='cool'>svalt</option>
+            </$select>
+         </td>
+      </tr>
+      <tr>
+         <th colspan="3" style="text-align:center;">Ljus</th>
+      </tr>
+      <tr>
+         <td>
+            <$select field='summer_light'>
+            <option value=''></option>
+            <option value='bright'>starkt</option>
+            <option value='partial_shade'>medel</option>
+            <option value='shade'>svagt</option>
+            </$select>
+         </td>
+         <td>''starkt'', >32 000 lux, skarp skugga från 15 cm höjd<br />
+            ''medel'', 21 000 till 32 000 lux, mjuk skugga från 15 cm höjd<br />
+            ''svagt'', 13 000 till 21 000 lux, ger ingen eller nästan ingen skugga från 15 cm höjd
+         </td>
+         <td>
+            <$select field='winter_light'>
+            <option value=''></option>
+            <option value='bright'>starkt</option>
+            <option value='partial_shade'>medel</option>
+            <option value='shade'>svagt</option>
+            </$select>
+         </td>
+      </tr>
+      <tr>
+         <th colspan="3" style="text-align:center;">Vattning</th>
+      </tr>
+      <tr>
+         <td>
+            <$select field='summer_water'>
+            <option value=''></option>
+            <option value='wet'>vått</option>
+            <option value='moist'>fuktigt</option>
+            <option value='dry'>torrt</option>
+            </$select>
+         </td>
+         <td>''vått'', vattning tre till fem gånger i veckan<br />
+            ''fuktigt'', vattning två gånger i veckan<br />
+            ''torrt'', vattning en gång i veckan eller mindre
+         </td>
+         <td>
+            <$select field='winter_water'>
+            <option value=''></option>
+            <option value='wet'>vått</option>
+            <option value='moist'>fuktigt</option>
+            <option value='dry'>torrt</option>
+            </$select>
+         </td>
+      </tr>
+   </table>
+   <table class="no-border" style="width:100%;">
+      <tr>
+         <th colspan="2" style="text-align:center;">
+            <h1>Habitat</h1>
+         </th>
+      </tr>
+      <tr>
+         <th style="text-align:center;width:50%;">Tropisk zon (höjd över havet i meter)</th>
+         <th style="text-align:center;">Kontinent</th>
+      </tr>
+      <tr>
+         <td><$checkbox field="subalpine" checked="true" unchecked="false" default="false"> ''subalpin zon'', mer än 2440 m</$checkbox></td>
+         <td><$checkbox field="africa" checked="true" unchecked="false" default="false">Afrika</$checkbox></td>
+      </tr>
+      <tr>
+         <td><$checkbox field="temperate" checked="true" unchecked="false" default="false"> ''tempererad zon'', 1830 till 2440 m</$checkbox></td>
+         <td><$checkbox field="europe" checked="true" unchecked="false" default="false">Europa</$checkbox></td>
+      </tr>
+      <tr>
+         <td><$checkbox field="subtropical" checked="true" unchecked="false" default="false"> ''subtropisk zon'', 915 till 1830 m</$checkbox></td>
+         <td><$checkbox field="asia" checked="true" unchecked="false" default="false">Asien</$checkbox></td>
+      </tr>
+      <tr>
+         <td><$checkbox field="tropical" checked="true" unchecked="false" default="false"> ''tropisk zon'', lägre än 915 m</$checkbox></td>
+         <td><$checkbox field="australia" checked="true" unchecked="false" default="false">Australien</$checkbox></td>
+      </tr>
+      <tr>
+         <td></td>
+         <td><$checkbox field="north_america" checked="true" unchecked="false" default="false">Nordamerika</$checkbox></td>
+      </tr>
+      <tr>
+         <td></td>
+         <td><$checkbox field="south_america" checked="true" unchecked="false" default="false">Sydamerika</$checkbox></td>
+      </tr>
+   </table>
+   <table class="no-border" style="width:100%;">
+      <tr>
+         <th colspan="5" style="text-align:center;">
+            <h1>Egenskaper</h1>
+         </th>
+      </tr>
+      <tr>
+         <th style="text-align:center;">Blomning</th>
+         <th style="text-align:center;">Blomningsperiod</th>
+         <th colspan="2" style="text-align:center;">Storlek</th>
+         <th style="text-align:center;">Doft</th>
+      </tr>
+      <tr>
+         <td rowspan="4">
+            <$select field='flowering'>
+            <option value=''></option>
+            <option value='less'>mindre än 2 veckor</option>
+            <option value='four_weeks'>mellan två och fyra veckor</option>
+            <option value='six_weeks'>mellan fyra och sex veckor</option>
+            <option value='more'>mer än sex veckor</option>
+            </$select>
+         </td>
+         <td>
+            <$checkbox field="flowering_spring" checked="true" unchecked="false" default="false">vår</$checkbox>
+         </td>
+         <td rowspan="4">
+            <$select field='size'>
+            <option value=''></option>
+            <option value='maxi'>stor</option>
+            <option value='midi'>medel</option>
+            <option value='mini'>liten</option>
+            </$select>
+         </td>
+         <td rowspan="4">
+            ''stor'', mer än 46 cm<br />
+            ''medel'', mellan 25 och 43 cm<br />
+            ''liten'', mindre än 25 cm
+         </td>
+         <td rowspan="4">
+            <$select field='fragrance'>
+            <option value=''></option>
+            <option value='fragrant'>doftande</option>
+            <option value='non_fragrant'>inte doftande</option>
+            </$select>
+         </td>
+      </tr>
+      <tr>
+         <td><$checkbox field="flowering_summer" checked="true" unchecked="false" default="false">sommar</$checkbox></td>
+      </tr>
+      <tr>
+         <td><$checkbox field="flowering_autumn" checked="true" unchecked="false" default="false">höst</$checkbox></td>
+      </tr>
+      <tr>
+         <td><$checkbox field="flowering_winter" checked="true" unchecked="false" default="false">vinter</$checkbox></td>
+      </tr>
+   </table>
+</div>
+</$list>

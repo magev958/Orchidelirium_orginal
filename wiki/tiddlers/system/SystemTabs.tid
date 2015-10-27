@@ -1,0 +1,10 @@
+caption: SystemTabs
+created: 20150904181355173
+creator: Magnus Evald
+modified: 20150908194346837
+modifier: Magnus Evald
+tags: Config System
+title: $:/_Story/SystemTabs
+type: text/vnd.tiddlywiki
+
+<<tabs "[[$:/core/ui/SideBar/More]] [[$:/core/ui/SideBar/Open]] [[$:/core/ui/SideBar/Recent]] [[$:/core/ui/SideBar/Tools]]">>

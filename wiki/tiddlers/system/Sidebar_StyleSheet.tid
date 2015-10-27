@@ -1,0 +1,63 @@
+created: 20150904082519293
+creator: Magnus Evald
+modified: 20150920182647158
+modifier: Magnus Evald
+tags: Config System $:/tags/Stylesheet
+title: $:/_Sidebar/StyleSheet
+type: text/vnd.tiddlywiki
+
+/* ONLY WIDE SCREEN
+   ================================================== */
+
+@media (min-width: 800px) { 
+    /* CONTROL BUTTONS
+       ================================================== */
+
+    body.tc-dirty span.tc-dirty-indicator svg,
+    .tc-sidebar-scrollable svg {
+        fill: transparent
+    }
+
+    .tc-btn-boxed {
+        border: none
+    }
+
+    .tc-sidebar-scrollable:hover svg,
+    .tc-sidebar-scrollable svg.tc-image-advanced-search-button {
+        fill: #cccccc
+    }
+
+    .tc-sidebar-scrollable:hover .tc-btn-boxed {
+        border: 1px solid #cccccc
+    }
+
+    body.tc-dirty .tc-sidebar-scrollable:hover span.tc-dirty-indicator svg {
+        fill: #ff0000
+    }
+
+    /* SIDEBAR
+       ================================================== */
+
+    .tc-sidebar-scrollable .tc-sidebar-lists .tc-tab-set {
+        visibility: hidden
+    }
+
+    .tc-sidebar-scrollable:hover .tc-sidebar-lists .tc-tab-set {
+        visibility: visible
+    }
+}
+
+.sidebarList li {
+    list-style-type: decimal;
+    margin-left: -20px;
+}
+
+/* BUTTON ANIMATION
+   ================================================== */
+
+.tc-page-controls svg,
+.tc-tiddler-controls svg,
+.tc-topbar button svg,
+.tc-sidebar-scrollable {
+    <<transition "fill 50ms ease-in-out">>
+}

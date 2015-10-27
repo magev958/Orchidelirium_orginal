@@ -1,0 +1,11 @@
+caption: Senaste
+created: 20150908184612252
+list-after: $:/_SideBar/ListTab
+modified: 20150923110914230
+tags: $:/tags/SideBar Config System
+title: $:/_Sidebar/RecentTab
+type: text/vnd.tiddlywiki
+
+<div class="sidebarList">
+  <<list-links filter:"[[tag[genus]] [tag[species]] +[has[modified]!sort[modified]limit[10]]">>
+</div>

@@ -1,0 +1,9 @@
+created: 20150904112320226
+creator: Magnus Evald
+modified: 20150904112437452
+modifier: Magnus Evald
+tags: Config System
+title: $:/_Sidebar/CustomSearchRegexp
+type: text/vnd.tiddlywiki
+
+$(term)$(?i)

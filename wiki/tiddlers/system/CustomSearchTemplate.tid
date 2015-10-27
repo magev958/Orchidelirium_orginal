@@ -1,0 +1,13 @@
+created: 20150904122931613
+creator: Magnus Evald
+modified: 20150904123000289
+modifier: Magnus Evald
+tags: Config System
+title: $:/_Sidebar/CustomSearchTemplate
+type: text/vnd.tiddlywiki
+
+<div class="tc-menu-list-item">
+<$link to={{!!title}}>
+<$view field="caption"/>
+</$link>
+</div>

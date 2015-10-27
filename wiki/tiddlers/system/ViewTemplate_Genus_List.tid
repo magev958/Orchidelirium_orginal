@@ -1,0 +1,14 @@
+caption: Arter
+created: 20150904182817103
+creator: Magnus Evald
+modified: 20150920181103321
+modifier: Magnus Evald
+tags: Config System
+title: $:/_Story/ViewTemplate/Genus/List
+type: text/vnd.tiddlywiki
+
+<div class="storyList">
+  <$list filter="[tag{!!caption}sort[caption]] -[tag[genus]]">
+    <$link to={{!!title}}><$view field="caption"/></$link>
+  </$list>
+</div>

@@ -1,0 +1,52 @@
+created: 20150904140927316
+creator: Magnus Evald
+modified: 20151027203211825
+modifier: Magnus Evald
+sort_by: winter_water
+tags: Config System windowLess
+title: $:/_SideBar/Lists/VinternÄrLång
+type: text/vnd.tiddlywiki
+
+!Vinter
+<table class="whitelines">
+	<thead>
+		<tr>
+			<th scope="row"><$button class='tc-btn-invisible'>Art<$action-setfield sort_by='caption'/></$button></th>
+			<th scope="col"><$button class='tc-btn-invisible'>Temp.<$action-setfield sort_by='winter_temp'/></$button></th>
+			<th scope="col"><$button class='tc-btn-invisible'>Ljus<$action-setfield sort_by='winter_light'/></$button></th>
+			<th scope="col"><$button class='tc-btn-invisible'>Vatten<$action-setfield sort_by='winter_water'/></$button></th>
+			<th scope="col"><$button class='tc-btn-invisible'>Storlek<$action-setfield sort_by='size'/></$button></th>
+			<th scope="col"><$button class='tc-btn-invisible'>Doft<$action-setfield sort_by='fragrance'/></$button></th>
+		</tr>
+	</thead>
+<$list filter='[list[$:/_User/Favorite!!tags]sort{!!sort_by}]'>
+	<tbody>
+		<tr>
+			<td align="left"><$link to={{!!title}}><$view field="caption"/></$link></td>
+			<td>
+				<$reveal type="match" state="!!winter_temp" text="warm">[img[iconWarm.svg]]</$reveal>
+				<$reveal type="match" state="!!winter_temp" text="intermediate">[img[iconIntermediate.svg]]</$reveal>
+				<$reveal type="match" state="!!winter_temp" text="cool">[img[iconCool.svg]]</$reveal>
+			</td>
+			<td>
+				<$reveal type="match" state="!!winter_light" text="bright">[img[iconBright.svg]]</$reveal>
+				<$reveal type="match" state="!!winter_light" text="partial_shade">[img[iconPartial_shade.svg]]</$reveal>
+				<$reveal type="match" state="!!winter_light" text="shade">[img[iconShade.svg]]</$reveal>
+			</td>
+			<td>
+				<$reveal type="match" state="!!winter_water" text="wet">[img[iconWet.svg]]</$reveal>
+				<$reveal type="match" state="!!winter_water" text="moist">[img[iconMoist.svg]]</$reveal>
+				<$reveal type="match" state="!!winter_water" text="dry">[img[iconDry.svg]]</$reveal>
+			</td>
+			<td>
+				<$reveal type="match" state="!!size" text="mini">[img[iconMini.svg]]</$reveal>
+				<$reveal type="match" state="!!size" text="midi">[img[iconMidi.svg]]</$reveal>
+				<$reveal type="match" state="!!size" text="maxi">[img[iconMaxi.svg]]</$reveal>
+			</td>
+			<td>
+				<$reveal type="match" state="!!fragrance" text="fragrant">[img[iconFragrant.svg]]</$reveal>
+			</td>
+		</tr>
+	</tbody>
+</$list>
+</table>

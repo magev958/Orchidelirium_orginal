@@ -1,0 +1,11 @@
+created: 20150904182228519
+creator: Magnus Evald
+modified: 20150920181654914
+modifier: Magnus Evald
+tags: $:/tags/ViewTemplate Config System
+title: $:/_Story/ViewTemplate/Genus
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[genus]]">
+<<tabs "[[$:/_Story/ViewTemplate/Genus/List]] [[x]]">>
+</$list>

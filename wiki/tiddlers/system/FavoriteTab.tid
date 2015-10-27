@@ -1,0 +1,13 @@
+caption: Favoriter
+created: 20150904111427075
+creator: Magnus Evald
+list-after: $:/_Sidebar/TableOfContent/Macro
+modified: 20150923110749326
+modifier: Magnus Evald
+tags: $:/tags/SideBar Config System
+title: $:/_SideBar/FavoriteTab
+type: text/vnd.tiddlywiki
+
+<div class="sidebarList">
+  <<list-links filter:"[list[$:/_User/Favorite!!tags]!tag[Config]!tag[User]sort[caption]]">>
+</div>

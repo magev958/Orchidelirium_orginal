@@ -1,0 +1,12 @@
+caption: Anteckningar
+created: 20150904182937143
+creator: Magnus Evald
+modified: 20150904193910754
+modifier: Magnus Evald
+tags: 
+title: $:/_Story/ViewTemplate/Species/Notes
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[species]]">
+                    <$edit-text tiddler="$:/_User/Notes" field={{!!title}} tag="textarea" class="tc-edit-texteditor"  />
+</$list>
