@@ -1,8 +1,71 @@
-auktor: 
+auktor: Blume (1825)
 caption: Apostasia
 count: 7
 created: 20151018214746785
-tags: Apostasia genus Apostasioideae ofullStändig
+modified: 20151209211235335
+tags: Apostasia genus Apostasioideae
 title: 09fd104d-7cc0-4074-8c3c-0443f8a89c59
 type: text/vnd.tiddlywiki
 
+!Allmänt och utbredning
+Det är ett litet, primitivt släkte med totalt <$view field="count"/> terrestriska arter från de fuktiga delarna av Himalaya i Kina och Indien, Myanmar/Burma, Thailand, Laos, Kambodja, Vietnam, genom sydöstra Asiens övärld på öar som Ryukyuöarna i Japan, Sri Lanka, New Guinea, malaysiska och filippinska arkipelagen och delstaten Queensland i norra Australien.
+De har visuella likheter med både övriga Orchidaceae och med Liliaceae, liljefamiljen.
+De räknas som en möjlig kandidat till ursprunget till Orchidaceae då de saknar flera avancerade egenskaper som förekommer hos flertalet övriga orkidéer. Bland annat skiljer sig arterna inom släktet, tillsammans med //[[Neuwiedia|e1130098-f9a3-4f30-8ac9-f5ad80b40e2d]]//, från de flesta andra orkidéer genom att ståndare och märke inte smält samman till en enda könspelare och att med pollenet inte är samlat i pollinier eller pollenmassor. Släktet //Apostasia// är indelat i två sektioner, ''Apostasia'' som kännetecknas av en extra, central, steril ståndare. Sektionen ''Adactylus'' saknar helt denna extra ståndare.
+Det generiska släktnamnet //Apostasia// är ett grekiskt ord som betyder "separation" eller "skilsmässa" och hänvisar till den unika blomstruktur som vissa tidigare författare använt för att skilja den från Orchidaceae.
+<$reveal type="nomatch" state="$:/temp/state-09fd104d-7cc0-4074-8c3c-0443f8a89c59" text="show">
+<$button set="$:/temp/state-09fd104d-7cc0-4074-8c3c-0443f8a89c59" setTo="show">visa mer info om sektionerna</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-09fd104d-7cc0-4074-8c3c-0443f8a89c59" text="show">
+
+;Apostasia
+://[[A. odorata|eb8d9bc3-5dd3-4283-8a80-046521c52f87]]// Blume (1825)
+://[[A. ramifera|ff9ffa8d-1465-4513-a559-bb7b1344e635]]// S.C.Chen & K.Y.Lang (1986)
+://[[A. wallichii|433b00cd-afa2-4dd7-8cac-80b5a71a16ef]]// R.Br. (1830)
+://[[A. shenzhenica|4d951300-e4d4-4bad-97cf-20468fc384ff]]// Z.J.Liu & L.J.Chen (2011)
+://[[A. parvula|f20df922-67f7-4d89-a92f-962452b704fc]]// Schltr. (1906)
+;Adactylus
+://[[A. nuda|e25a61e9-97c3-4d73-bcaa-38a268015d0d]]// R.Br. (1830)
+://[[A. latifolia|a78cd53d-c9cf-4f09-bb01-9c7e9aec23fb]]// Rolfe (1889)
+
+<$button set="$:/temp/state-09fd104d-7cc0-4074-8c3c-0443f8a89c59" setTo="hide">dölj</$button>
+
+</$reveal>
+
+!Utseende
+Arterna inom //Apostasia// producera en upprätt blomställning med upp till sex sidogrenar från den horisontella jordstammen. Rötterna är tjocka med oregelbundna vårtor och saknar velamen. Bladen är tunna, långsmala och kommer i spiral runt en upprätt stam som kan vara grenad eller inte. Under sommarens regnperiod kan plantorna bär upptill 30 vita eller gula blommor som är icke-resupinata, det vill säga som inte har vänts upp och ner som hos de flesta övriga orkidéer. De små blommorna som mäter åtta till tolv mm i bredd är stjärnformade med smala sepaler och petaler med en liten tandliknande struktur vid spetsen. Läppen liknar sepalerna och petalerna. Blommorna är kortlivade, står bara några dagar, självpollinerande utom hos några enstaka arter där bin får ståndarknapparna att släppa sitt pollen.
+
+!Skötsel
+Arterna växer i skyddade skogsområden i fuktig till väldränerad jord, inklusive sand, grusiga lerjord och ren lerjord. De förekommer från djup skugga till skogsbrynens soligare miljöer, ibland nära vattendrag.
+Alla arter är sällsynta, ingen återfinns i odling, och en del är kända bara från ett fåtal gamla herbariumsamlingar. Det verkar inte vara möjligt att föröka dem utom från frö.
+
+!Taxonomi
+''Underfamilj'': Apostasioideae ''Tribus'': N/A ''Undertribus'': N/A
+
+----
+''Typart''
+[[A. odorata|eb8d9bc3-5dd3-4283-8a80-046521c52f87]] Blume (1825)
+
+----
+''Uttal''
+a-pos-STAY-see-uh
+
+----
+''Synonymer''
+__Heterotypic Synonyms:__
+//Mesodactylis// Wall. (1830)
+//Niemeyera// F.Muell. (1867)
+//Neumayera// Rchb.f. (1872)
+//Adactylus// Rolfe (1896)
+
+!Rekommenderad läsning
+[[Wikipedia|https://en.wikipedia.org/wiki/Apostasia_(orchid)]] 2015-11-18
+[[Australian National Botanic Gardens|https://www.anbg.gov.au/cpbr/cd-keys/orchidkey/html/genera/Apostasia.htm]] 2015-11-18
+[[University of Amsterdam|http://dare.uva.nl/cgi/arno/show.cgi?fid=566466]] 2015-11-18
+[[Flora of China|http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102345]] 2015-11-26
+
+;A. Kocyan, Y.-L. Qiu, P. K. Endress, and E. Conti, 2004
+://A phylogenetic analysis of Apostasioideae (Orchidaceae) based on ITS, trnL-F and matK sequences//
+: Plant Syst. Evol. 247: 203–213. doi:10.1007/s00606-004-0133-3.
+;E.F. de Vogel. 1969
+://Monograph of the tribe Apostasieae (Orchidaceae)//
+:Blumea 17:312–350
+:http://dare.uva.nl/cgi/arno/show.cgi?fid=566466
