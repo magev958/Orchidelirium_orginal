@@ -1,8 +1,41 @@
-auktor: 
+auktor: Lindley (1840)
 caption: Cleistes
 count: 66
 created: 20151018214748086
-tags: Cleistes genus Pogonieae ofullStändig
+modified: 20151211211314472
+tags: Cleistes genus Pogonieae
 title: ed35f1ff-edc4-4223-867c-1981a62300e9
 type: text/vnd.tiddlywiki
 
+!Allmänt och utbredning
+Släktets <$view field="count"/> terrestriska arter hör framförallt hemma i Sydamerika, från Peru med ett fåtal arter som sträcker sig norrut till Costa Rica och Trinidad med den största mångfalden observerats i Brasilien. De föredrar öppna savanner, klippformationer och mossar, och de växer ofta i fuktiga, väldränerad, sandig, sura jordar på låglandet och lägre bergsskogar upp till 2000 meters höjd.
+Två nordamerikanska arter inkluderades tidigare i det här släktet, men betraktas sedan 2009 som ett separat släkte, //[[Cleistesiopsis|f3e8427f-5032-4c44-abb7-646b59da2f60]]//. De är nära besläktade med //[[Pogonia|d3f0ae80-6d80-4766-b3f9-f60ded2debe9]]// som många av arterna tidigare tillhört.
+Namnet kommer från det grekiska ''kleistos'' som betyder "stängd" och anspelar på läppen och petalerna som bildar ett rör eller tub under större delen av sin längd och endast delar sig nära spetsen, blomman kommer därmed framstå som stängd.
+
+!Utseende
+De saknar pseudobulber utan bildar tjocka, underjordiska rhizom med smala fibrösa rötter. Från jordstammen bildas en långsmal, upprätt stam med en till tre smala, tunna, skaftlösa blad som kommer alternerande, glest utspridda längs stammen. Vanligtvis produceras ett fåtal iögonfallande, tubliknande blommor. Sepalerna är längre och smalare än petalerna men annars snarlika. Läppen är hel eller treflikad och kännetecknas av längsgående kammar eller lameller.
+
+!Skötsel
+Ge dem en varm, ljus växtplats utan direkt sol och håll plantan fuktig. Odla i en väldränerad, sandig och sur barkkompost.
+
+!Taxonomi
+''Underfamilj'': Vanilloideae ''Tribus'': Pogoniinae ''Undertribus'': N/A
+
+----
+''Typart''
+//Cls. lutea// Lindley (1840) numera synonymt med //[[Cls. grandiflora|e9e56319-69a3-4259-9482-11dc8276b187]]// Schltr. (1926)
+
+----
+''Uttal''
+cleis-tes
+
+----
+''Synonymer''
+N/A
+
+!Rekommenderad läsning
+[[eFloras|http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=107295]] 2015-12-02
+
+;Marta Kolanowska, Dariusz L. Szlachetko, 2013
+://A new species of Cleistes (Orchidaceae, Vanilloideae) from Colombia//
+:Polish Botanical Journal. Volume 58, Issue 2, Pages 625–627, ISSN (Online) 2084-4352, DOI: 10.2478/pbj-2013-0067, December 2013

@@ -1,8 +1,59 @@
-auktor: 
+auktor: Rchb.f. (1854)
 caption: Selenipedium
 count: 5
 created: 20151018214747712
-tags: Selenipedium genus Selenipediinae ofullStändig
+modified: 20151211211527367
+tags: Selenipedium genus Selenipediinae
 title: c4ef2d0f-50ab-449c-b861-30b4379c3318
 type: text/vnd.tiddlywiki
 
+!Allmänt och utbredning
+De <$view field="count"/> arterna inom släktet //Selenipedium// återfinns från Panama i söder, Costa Rica, Trinidad, Franska Guinea, södra Colombia, Ecuador och Amazonas avrinningsområde i Brasilien upptill 900 meters höjd över havet.
+Alla arter av detta central- och sydamerikanska guckuskosläkte är mycket sällsynta och mycket lite är känt om dem. De anses allmänt som ett primitivt förstadium till //[[Paphiopedilum|4de37127-aa20-4dc8-9397-38b26a47ba20]]// och //[[Phragmipedium|64b911cb-2954-4ad9-be8b-1a5dda3a5b38]]//. Frökapslarna hos släktets arter, framförallt //[[Sel. chica|545a19a0-b438-45f3-9aa1-c80ca6a44cdd]]//, har tidigare används som substitut för vanilj men numera odlas de inte kommersiellt i någon större utsträckning. 
+Namnet kommer från det grekiska ''selen'' som betyder "måne" och ''pedium'' som betyder "toffla" efter den säregna formen på blommans läpp.
+<$reveal type="nomatch" state="$:/temp/state-c4ef2d0f-50ab-449c-b861-30b4379c3318" text="show">
+<$button set="$:/temp/state-c4ef2d0f-50ab-449c-b861-30b4379c3318" setTo="show">visa mer info om sektionerna</$button></$reveal>
+<$reveal type="match" state="$:/temp/state-c4ef2d0f-50ab-449c-b861-30b4379c3318" text="show">
+
+Den mest välkända arten är //S. palmifolium// Rchb.f. från Venezuela, Guyana, Surinam, Franska Guyana och norra Brasilien.
+De övriga arterna har ett mycket mer begränsat utbredningsområde:
+//[[Sel. aequinoctiale|be74b9ff-b3ad-463a-a0e4-f721c3e7cee1]]// Garay är endast känd från nordvästra Ecuador och angränsande områden i Colombia;
+//[[Sel. chica|545a19a0-b438-45f3-9aa1-c80ca6a44cdd]]// Rchb.f. är endemisk till Panama;
+//[[Sel. isabelianum|c893dda4-273d-4476-a7c2-d22eebd2600a]]// Barb. Rodr. återfinns i östra Brasilien;
+och
+//[[Sel. steyermarkii|77bc53af-1009-4516-bebc-293665f52159]]// Foldats från Venezuela;
+
+<$button set="$:/temp/state-c4ef2d0f-50ab-449c-b861-30b4379c3318" setTo="hide">dölj</$button>
+
+</$reveal>
+
+!Utseende
+Alla arterna är ganska stora plantor med relativt små blommor. Den bildar en bambuliknande stam som kan nå upp till 3 meter med tunna, långsmala blad alternerande längs hela längden. Bladen blir upptill 20 cm långa och tre till fyra cm breda. I toppen av stammen bildas successivt nya, två till tre cm stora blommor. Könspelaren har två fertila ståndarknappar, en på varje sida om ståndaren i centrum som täcker övre delen av könspelaren. Sepaler och petaler är relativt lika, i ljusa färger. Läppen är rund med tjocka, inrullade kanter.
+
+!Skötsel
+Med några få undantag i Sydamerika är det sällan de återfinns i odlingar. De är svåra att föröka, växer långsamt, plantorna stora och blommorna små, så ersättningen för alla odlarmödor är litet. Arterna anses som de svåraste orkidéerna att odla. De föredrar en växtplats med hög luftfuktighet, varma temperaturer och diffust ljus. Plantera i lika delar sand och fibrer av trädormbunke. Vatten generöst med vatten av god kvalité, R/O eller regnvatten, låt dem inte torka ut och ge svag gödning.
+
+!Taxonomi
+''Underfamilj'': Cypripedioideae ''Tribus'': Selenipedieae ''Undertribus'': Selenipedinae
+
+----
+''Typart''
+//[[Sel. chica|545a19a0-b438-45f3-9aa1-c80ca6a44cdd]]// Rchb.f. (1854)
+
+----
+''Uttal''
+Sel-eni-PE-dium
+
+----
+''Synonymer''
+__Heterotypic Synonyms:__
+//Selenipedilum// Pfitzer (1888)
+
+!Rekommenderad läsning
+[[Orchids Wiki|http://orchids.wikia.com/wiki/Selenipedium]] 2015-11-30
+[[Selenipedium Observations|http://cyps.us/selen/culture.html]] 2015-11-30
+
+;Phillip Cribb & Andre Schuiteman, 2015
+:A new species of Selenipedium (Orchidaceae: Cypripedioidaea) from Ecuador, Lankesteriana 15(3): 179–182,
+:doi: http://dx.doi.org/10.15517/lank.v15i3.21109
+:http://www.lankesteriana.org/lankesteriana/Lankesteriana%2015%283%29/05_cribb_et_schuiteman.pdf
