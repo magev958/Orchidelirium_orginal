@@ -9,7 +9,7 @@ Using this work-flow has several advantages:
 2. Tiddlers are built from **individual `.tid` files**
 3. Built in **changes history and diff**
 4. Github allows you to edit and add files directly from their web interface, so you don't have to install anything in your computer.
-3. No `git` or Github Knowledge required
+3. No `git` or Github Knowledge required 
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
